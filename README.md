@@ -46,39 +46,6 @@ I'm a full-stack developer specializing in web development and cyber security. I
 
 ## 🔭 Featured Projects
 
-### Interactive Matrix Canvas Dashboard
-<div align="center">
-  <img src="https://i.imgur.com/RCKzYmP.gif" alt="Matrix Canvas Dashboard" width="80%" />
-</div>
-
-A dashboard with real-time data visualization using HTML5 Canvas with Matrix-style animations.
-[Live Demo](https://your-username.github.io/matrix-dashboard)
-
-### Secure E-Commerce Platform
-<div align="center">
-  <img src="https://i.imgur.com/JW7qMFe.gif" alt="E-Commerce Platform" width="80%" />
-</div>
-
-Built with Next.js, Express, and PostgreSQL featuring secure payment processing and penetration-tested security.
-[Repository](https://github.com/your-username/secure-ecommerce)
-
-### Cyber Security Training Portal
-<div align="center">
-  <img src="https://i.imgur.com/8ZwT7DJ.gif" alt="Security Training Portal" width="80%" />
-</div>
-
-Educational platform for cyber security training with interactive demos of common vulnerabilities.
-[Repository](https://github.com/your-username/security-training)
-
-## 🌊 Matrix Aqua Canvas Animation
-
-<div align="center">
-  <img src="https://i.imgur.com/q2W6N1A.gif" alt="Matrix Aqua Animation" width="80%" />
-</div>
-
-### [Interactive Matrix Canvas Demo](https://your-username.github.io/matrix-canvas)
-Check out my interactive Matrix-style canvas animations with aqua shadows on my GitHub Pages site!
-
 ## 📊 GitHub Stats
 
 <div align="center">

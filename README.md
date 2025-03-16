@@ -1,33 +1,34 @@
 # Welcome to My GitHub Profile 👋
 
 <div align="center">
-  <!-- This is a canvas-like animation using SVG which GitHub supports -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Canvas Animation" width="100%" />
+  <!-- Matrix-style animation using SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44FF9A,100:00A3FF&height=200&section=header&text=Cyber%20Security%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=MERN%20Stack%20|%20Web%20Pentesting%20|%20Canvas%20Animations&descAlignY=50&descSize=15" width="100%" />
 </div>
 
 ## 💻 About Me
 
-I'm a full-stack developer specializing in the MERN stack with a focus on interactive web applications. I create dynamic user interfaces with canvas animations and build robust backend systems.
+I'm a full-stack developer specializing in web development and cyber security. I work at the Cyber Security Center and am a member of the Cyber Club. I create dynamic user interfaces with canvas animations and build secure web applications.
 
 ## 🚀 Technologies & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,typescript,html,css,threejs,docker,aws" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,nextjs,nodejs,express,mongodb,postgres,nginx" alt="Skills" />
 </div>
 
 ### Frontend
+- HTML5, CSS3, JavaScript
+- Bootstrap
 - React.js
+- Vite
 - Next.js
-- HTML5 Canvas
-- JavaScript/TypeScript
-- CSS3/SCSS/Tailwind CSS
-- Three.js
+- Material UI
+- Shadcn UI
 
 ### Backend
 - Node.js
 - Express.js
 - REST API
-- GraphQL
+- Nest.js (basics)
 
 ### Databases
 - MongoDB
@@ -35,69 +36,79 @@ I'm a full-stack developer specializing in the MERN stack with a focus on intera
 
 ### DevOps & Tools
 - Git/GitHub
-- Docker
-- CI/CD
-- AWS
+- Nginx
+- OSINT (basics)
 
-### Security
-- Web Application Security
-- Penetration Testing
+### Cyber Security
+- Web Penetration Testing
+- Security Tools: sqlmap, nmap, etc.
 - Security Auditing
 
 ## 🔭 Featured Projects
 
-### Interactive Canvas Dashboard
+### Interactive Matrix Canvas Dashboard
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Canvas+Dashboard+Demo" alt="Canvas Dashboard" width="80%" />
+  <img src="https://i.imgur.com/RCKzYmP.gif" alt="Matrix Canvas Dashboard" width="80%" />
 </div>
 
-A dashboard with real-time data visualization using HTML5 Canvas and WebGL.
-[Live Demo](https://your-username.github.io/canvas-dashboard)
+A dashboard with real-time data visualization using HTML5 Canvas with Matrix-style animations.
+[Live Demo](https://your-username.github.io/matrix-dashboard)
 
-### Full-Stack E-Commerce Platform
+### Secure E-Commerce Platform
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=E-Commerce+Platform" alt="E-Commerce Platform" width="80%" />
+  <img src="https://i.imgur.com/JW7qMFe.gif" alt="E-Commerce Platform" width="80%" />
 </div>
 
-Built with Next.js, Express, and PostgreSQL featuring secure payment processing.
-[Repository](https://github.com/your-username/ecommerce-platform)
+Built with Next.js, Express, and PostgreSQL featuring secure payment processing and penetration-tested security.
+[Repository](https://github.com/your-username/secure-ecommerce)
 
-### Real-time Chat Application
+### Cyber Security Training Portal
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Real-time+Chat+App" alt="Chat Application" width="80%" />
+  <img src="https://i.imgur.com/8ZwT7DJ.gif" alt="Security Training Portal" width="80%" />
 </div>
 
-Developed using Socket.io, React, and MongoDB with end-to-end encryption.
-[Repository](https://github.com/your-username/chat-app)
+Educational platform for cyber security training with interactive demos of common vulnerabilities.
+[Repository](https://github.com/your-username/security-training)
 
-## 🌊 Canvas Animations
+## 🌊 Matrix Aqua Canvas Animation
 
 <div align="center">
-  <!-- Replace with your actual GIF of canvas animation -->
-  <img src="https://i.imgur.com/LfUaaEE.gif" alt="Aqua Canvas Animation" width="80%" />
+  <img src="https://i.imgur.com/q2W6N1A.gif" alt="Matrix Aqua Animation" width="80%" />
 </div>
 
-### [Interactive Canvas Demo](https://your-username.github.io/canvas-demo)
-Check out my interactive canvas animations on my GitHub Pages site!
+### [Interactive Matrix Canvas Demo](https://your-username.github.io/matrix-canvas)
+Check out my interactive Matrix-style canvas animations with aqua shadows on my GitHub Pages site!
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-green" alt="GitHub Streak" />
 </div>
+
+## 💻 Cyber Security Projects
+
+- Web Application Vulnerability Scanner
+- Network Traffic Analyzer
+- SQL Injection Detection Tool
+- XSS Prevention Framework
+- Security Awareness Training Materials
 
 ## 📫 How to reach me
 
 <div align="center">
+  <a href="https://t.me/csec_webcoder"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
+
+## 🏢 Work Experience
+
+Currently working at the **Cyber Security Center** as a member of the **Cyber Club**. Specializing in web application security and penetration testing.
 
 ---
 
 <div align="center">
-  <!-- This is another canvas-like animation using SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <!-- Matrix-style footer animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44FF9A,100:00A3FF&height=100&section=footer" width="100%" />
 </div>

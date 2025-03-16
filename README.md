@@ -51,8 +51,8 @@ I'm a full-stack developer specializing in web development and cyber security. I
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blue-green" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-green" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WebCoderLider&show_icons=true&theme=blue-green" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WebCoderLider&theme=blue-green" alt="GitHub Streak" />
 </div>
 
 ## 💻 Cyber Security Projects
@@ -67,7 +67,6 @@ I'm a full-stack developer specializing in web development and cyber security. I
 
 <div align="center">
   <a href="https://t.me/csec_webcoder"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:ilhomjoniskandarov2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ## 🏢 Work Experience

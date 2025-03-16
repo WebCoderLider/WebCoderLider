@@ -75,6 +75,11 @@ Currently working at the **Cyber Security Center** as a member of the **Cyber Cl
 ---
 
 <div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+</div>
+
+<div align="center">
   <!-- Matrix-style footer animation -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44FF9A,100:00A3FF&height=100&section=footer" width="100%" />
 </div>

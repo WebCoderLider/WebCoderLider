@@ -1,33 +1,103 @@
-<body>
-  <h1 align="center">Hi 👋, I'm Ilhomjon</h1>
-<h3 align="center">A passionate MERNstack developer from Uzbekistan</h3>
+# Welcome to My GitHub Profile 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=webcoderlider&label=Profile%20views&color=0e75b6&style=flat" alt="webcoderlider" /> </p>
+<div align="center">
+  <!-- This is a canvas-like animation using SVG which GitHub supports -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Canvas Animation" width="100%" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webcoderlider" alt="webcoderlider" /></a> </p>
+## 💻 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm a full-stack developer specializing in the MERN stack with a focus on interactive web applications. I create dynamic user interfaces with canvas animations and build robust backend systems.
 
-- 👨‍💻 All of my projects are available at [online-kutubxona.uz](online-kutubxona.uz)
+## 🚀 Technologies & Skills
 
-- 📝 I regularly write articles on [https://t.me/web_coding_uz](https://t.me/web_coding_uz)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,typescript,html,css,threejs,docker,aws" alt="Skills" />
+</div>
 
-- 💬 Ask me about **react, nodejs**
+### Frontend
+- React.js
+- Next.js
+- HTML5 Canvas
+- JavaScript/TypeScript
+- CSS3/SCSS/Tailwind CSS
+- Three.js
 
-- 📫 How to reach me **ilhomjoniskandarov2006@gmail.com**
+### Backend
+- Node.js
+- Express.js
+- REST API
+- GraphQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/webcoderlider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="webcoderlider" height="30" width="40" /></a>
-</p>
+### Databases
+- MongoDB
+- PostgreSQL
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+### DevOps & Tools
+- Git/GitHub
+- Docker
+- CI/CD
+- AWS
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webcoderlider&show_icons=true&locale=en&layout=compact" alt="webcoderlider" /></p>
+### Security
+- Web Application Security
+- Penetration Testing
+- Security Auditing
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webcoderlider&show_icons=true&locale=en" alt="webcoderlider" /></p>
+## 🔭 Featured Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webcoderlider&" alt="webcoderlider" /></p>
+### Interactive Canvas Dashboard
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=Canvas+Dashboard+Demo" alt="Canvas Dashboard" width="80%" />
+</div>
 
-</body>
+A dashboard with real-time data visualization using HTML5 Canvas and WebGL.
+[Live Demo](https://your-username.github.io/canvas-dashboard)
+
+### Full-Stack E-Commerce Platform
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=E-Commerce+Platform" alt="E-Commerce Platform" width="80%" />
+</div>
+
+Built with Next.js, Express, and PostgreSQL featuring secure payment processing.
+[Repository](https://github.com/your-username/ecommerce-platform)
+
+### Real-time Chat Application
+<div align="center">
+  <img src="https://via.placeholder.com/800x400?text=Real-time+Chat+App" alt="Chat Application" width="80%" />
+</div>
+
+Developed using Socket.io, React, and MongoDB with end-to-end encryption.
+[Repository](https://github.com/your-username/chat-app)
+
+## 🌊 Canvas Animations
+
+<div align="center">
+  <!-- Replace with your actual GIF of canvas animation -->
+  <img src="https://i.imgur.com/LfUaaEE.gif" alt="Aqua Canvas Animation" width="80%" />
+</div>
+
+### [Interactive Canvas Demo](https://your-username.github.io/canvas-demo)
+Check out my interactive canvas animations on my GitHub Pages site!
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/your_handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <!-- This is another canvas-like animation using SVG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>

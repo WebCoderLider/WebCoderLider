@@ -1,5 +1,8 @@
 # Welcome to My GitHub Profile 👋
-
+<div align="center">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=WebCoderLider&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
+</div>
 <div align="center">
   <!-- Matrix-style animation using SVG -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:44FF9A,100:00A3FF&height=200&section=header&text=Cyber%20Security%20Developer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=MERN%20Stack%20|%20Web%20Pentesting%20|%20Canvas%20Animations&descAlignY=50&descSize=15" width="100%" />
@@ -72,11 +75,6 @@ I'm a full-stack developer specializing in web development and cyber security. I
 Currently working at the **Cyber Security Center** as a member of the **Cyber Club**. Specializing in web application security and penetration testing.
 
 ---
-
-<div align="center">
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=WebCoderLider&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
-</div>
 
 <div align="center">
   <!-- Matrix-style footer animation -->

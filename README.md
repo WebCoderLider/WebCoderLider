@@ -44,7 +44,6 @@ I'm a full-stack developer specializing in web development and cyber security. I
 - Security Tools: sqlmap, nmap, etc.
 - Security Auditing
 
-## 🔭 Featured Projects
 
 ## 📊 GitHub Stats
 
